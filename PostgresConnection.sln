@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresConnection", "PostgresConnection\PostgresConnection.csproj", "{5C4FBB9E-BD79-4596-8F54-1F8048644B10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4FBB9E-BD79-4596-8F54-1F8048644B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4FBB9E-BD79-4596-8F54-1F8048644B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4FBB9E-BD79-4596-8F54-1F8048644B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4FBB9E-BD79-4596-8F54-1F8048644B10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23A1014D-C776-4354-91DB-C22C9B13D0D5}
+	EndGlobalSection
+EndGlobal
